@@ -1,0 +1,265 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 8722 >>
+stream
+0.1 0.12 0.11 rg
+BT /F2 19 Tf 1 0 0 1 227.7 744.0 Tm (ANDREW ETOPIA) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 10.5 Tf 1 0 0 1 156.3 728.0 Tm (Full-Stack Software Engineer  |  AI Evaluation & QA Specialist) Tj ET
+0.3 0.33 0.31 rg
+BT /F1 8.8 Tf 1 0 0 1 147.7 714.0 Tm (Lagos, Nigeria \(Remote Worldwide\)  |  +234 907 460 6483  |  jolaetopia81@gmail.com) Tj ET
+0.3 0.33 0.31 rg
+BT /F1 8.8 Tf 1 0 0 1 101.1 702.0 Tm (GitHub: github.com/Etopia1 \(45+ Repos\)  |  LinkedIn: linkedin.com/in/etopia-anjolaoluwa-andrew-430721297) Tj ET
+0.12 0.14 0.13 rg
+BT /F2 10.5 Tf 1 0 0 1 48 683.0 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.36 0.43 0.37 RG 0.9 w 48 679.0 m 564.0 679.0 l S
+0.2 0.23 0.21 rg
+BT /F1 9.2 Tf 1 0 0 1 48 666.0 Tm (Results-oriented Full-Stack Software Engineer and AI Evaluation / QA Specialist with 4+ years of hands-on experience designing,) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9.2 Tf 1 0 0 1 48 653.8 Tm (building, and deploying scalable web and mobile applications, decoupled REST/WebSocket backends, workflow automations, and) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9.2 Tf 1 0 0 1 48 641.6 Tm (evaluated AI systems. Maintains 45+ public GitHub repositories and 6 live production Vercel deployments spanning TypeScript,) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9.2 Tf 1 0 0 1 48 629.4 Tm (React, Next.js, Node.js/Express, Python/Django, PostgreSQL, MongoDB, Redis, Socket.IO, Mapbox GL, and Stripe/Paystack) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9.2 Tf 1 0 0 1 48 617.2 Tm (integrations.) Tj ET
+0.12 0.14 0.13 rg
+BT /F2 10.5 Tf 1 0 0 1 48 595.0 Tm (TECHNICAL SKILLS & CORE COMPETENCIES) Tj ET
+0.36 0.43 0.37 RG 0.9 w 48 591.0 m 564.0 591.0 l S
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 578.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 578.0 Tm (Frontend Engineering:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( React, Next.js \(App Router\), TypeScript, JavaScript \(ES6+\), HTML5, CSS3, Tailwind CSS, Redux) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 566.0 Tm (Toolkit, Zustand, Three.js, Recharts/Chart.js.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 552.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 552.0 Tm (Backend & Real-Time:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Node.js, Express 5, Python, Django REST Framework, REST APIs, Socket.IO real-time engines,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 540.0 Tm (JWT/OAuth/Google Auth, Joi validation, Cloudinary, Multer.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 526.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 526.0 Tm (Databases & Caching:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( PostgreSQL, MongoDB \(Mongoose\), Redis \(caching & pub/sub\), MySQL, Supabase, schema modeling,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 514.0 Tm (CRUD indexing & query optimization.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 500.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 500.0 Tm (AI, ML & Evaluation:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( OpenAI API, Google Generative AI, Pinecone vector search concepts, TensorFlow.js \(BlazeFace webcam) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 488.0 Tm (proctoring\), LLM hallucination & rubric evaluation.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 474.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 474.0 Tm (Tools, Maps & Automation:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Git, GitHub, Docker, Vercel, Render, Postman, Mapbox GL JS, Leaflet, OpenRouteService, Stripe,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 462.0 Tm (Paystack, Amadeus API, n8n, GoHighLevel, WordPress/SEO.) Tj ET
+0.12 0.14 0.13 rg
+BT /F2 10.5 Tf 1 0 0 1 48 443.0 Tm (PROFESSIONAL EXPERIENCE) Tj ET
+0.36 0.43 0.37 RG 0.9 w 48 439.0 m 564.0 439.0 l S
+0.1 0.12 0.11 rg
+BT /F2 9.8 Tf 1 0 0 1 48 426.0 Tm (Independent Software Engineer / Full-Stack Developer) Tj ET
+0.35 0.38 0.36 rg
+BT /F1 9.2 Tf 1 0 0 1 463.9 426.0 Tm (Remote  |  2019 - Present) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 413.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 413.0 Tm (Architected and deployed 25+ full-stack applications and 45+ GitHub repositories with decoupled frontend clients and Express,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 401.0 Tm (TypeScript, and Django REST backends.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 387.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 387.0 Tm (Engineered real-time communication, proctoring, and live GPS tracking channels using Socket.IO, Redis pub/sub, and persisted) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 375.0 Tm (Redux/Zustand client stores.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 361.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 361.0 Tm (Integrated Stripe, Paystack, Amadeus travel SDK, Cloudinary media pipelines, Mapbox GL JS geospatial routing,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 349.0 Tm (Resend/Nodemailer, and jsPDF/PDFKit reporting.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 335.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 335.0 Tm (Built AI-enabled web applications and business automations using OpenAI APIs, Google Generative AI, TensorFlow.js) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 323.0 Tm (BlazeFace, Python/Pandas, n8n, and GoHighLevel.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 309.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 309.0 Tm (Improved application responsiveness and reliability via database indexing, Redis caching, lazy loading, code splitting, and) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 297.0 Tm (Joi/express-validator payload hardening.) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.8 Tf 1 0 0 1 48 283.0 Tm (Freelance Software QA Tester  -  uTest / Test.io / Testlio) Tj ET
+0.35 0.38 0.36 rg
+BT /F1 9.2 Tf 1 0 0 1 463.9 283.0 Tm (Remote  |  2024 - Present) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 270.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 270.0 Tm (Executed structured test cases, exploratory QA, and regression suites across international web and mobile software releases.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 256.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 256.0 Tm (Isolated functional, UI/UX, and API defects with reproducible step-by-step documentation, network evidence, and strict) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 244.0 Tm (adherence to release SLAs.) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.8 Tf 1 0 0 1 48 230.0 Tm (AI Evaluation & Data Contributor  -  OneForma / Outlier) Tj ET
+0.35 0.38 0.36 rg
+BT /F1 9.2 Tf 1 0 0 1 463.9 230.0 Tm (Remote  |  2024 - Present) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 217.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 217.0 Tm (Evaluated LLM outputs across coding, reasoning, and instruction-following rubrics for factual accuracy, hallucination detection,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 205.0 Tm (and logical consistency.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 191.0 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 191.0 Tm (Completed high-precision data annotation, labeling, transcription, and voice/dataset quality reviews under evolving technical) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 179.0 Tm (guidelines.) Tj ET
+0.12 0.14 0.13 rg
+BT /F2 10.5 Tf 1 0 0 1 48 160.0 Tm (SELECTED TECHNICAL PROJECTS \(GITHUB.COM/ETOPIA1\)) Tj ET
+0.36 0.43 0.37 RG 0.9 w 48 156.0 m 564.0 156.0 l S
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 143.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 143.0 Tm (FUTA Housing Marketplace:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Decoupled Next.js 14 & Express TypeScript campus housing marketplace featuring Mapbox GL) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 131.0 Tm (property discovery, Redux Toolkit persistence, Socket.IO real-time messaging, Cloudinary, and jsPDF receipts. \(Live:) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 119.0 Tm (futa-housing.vercel.app | Repos: FutaHousing-Frontend- & FutaHousing-Backend-\)) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 105.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 105.0 Tm (KICC CBT & EduCBT Pro:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Proctored computer-based testing suite uniting Redux Persist exam state, TensorFlow.js BlazeFace) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 93.0 Tm (webcam monitoring, Socket.IO live supervision, Stripe/PDFKit, and XLSX/CSV exports. \(Live: ki-icc-cbt-frontend.vercel.app |) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 81.0 Tm (Repos: KiICC-cbt-frontend & EduCBT-Pro-Backend-\)) Tj ET
+0.45 0.48 0.46 rg
+BT /F1 8.2 Tf 1 0 0 1 257.0 28 Tm (Andrew Etopia | Page 1 of 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 5032 >>
+stream
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 742.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 742.0 Tm (Driven Ride & Travel Platform:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Cross-platform Expo React Native & Express 5 ride/travel app with live Mapbox GPS telemetry) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 730.0 Tm (via Socket.IO, Amadeus travel APIs, Stripe checkout, Helmet security, and Expo push notifications. \(Live: driven-nu.vercel.app |) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 718.0 Tm (Repos: UberAppRactNative & UberAppBackend\)) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 704.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 704.0 Tm (PulseChat Real-Time Engine:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Low-latency messaging engine powered by React, Zustand, Socket.IO, Redis, MongoDB, JWT) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 692.0 Tm (cookie auth, Cloudinary, and Winston logging. \(Live: purlse-chat-front.vercel.app | Repos: PurlseChatFront & purslsechatback\)) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 678.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 678.0 Tm (Intelligent Trip Planner:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( React 19 + Mapbox/Leaflet itinerary planner paired with a Python Django 5 REST backend, AI) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 666.0 Tm (contextual recommendations, QR code sharing, and jsPDF export. \(Live: trip-planner-front.vercel.app | Repos: TripPlannerFront) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 654.0 Tm (& TripPytonBackend\)) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 640.0 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 640.0 Tm (Sydney Collection E-Commerce:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Buyer/merchant storefront featuring Google OAuth, OTP verification, Joi validation, Cloudinary) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 628.0 Tm (media, flash sales, and Gemini AI support. \(Live: sydney-collection.vercel.app | Repos: AndrewEcomerce &) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 616.0 Tm (AndrewEcomerceBack\)) Tj ET
+0.12 0.14 0.13 rg
+BT /F2 10.5 Tf 1 0 0 1 48 597.0 Tm (EDUCATION & CERTIFICATIONS) Tj ET
+0.36 0.43 0.37 RG 0.9 w 48 593.0 m 564.0 593.0 l S
+0.1 0.12 0.11 rg
+BT /F2 9.8 Tf 1 0 0 1 48 580.0 Tm (Brigham Young University-Idaho \(BYU-Idaho\)  -  via BYU-Pathway Worldwide) Tj ET
+0.35 0.38 0.36 rg
+BT /F1 9.2 Tf 1 0 0 1 481.4 580.0 Tm (Online  |  In Progress) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9 Tf 1 0 0 1 48 567.0 Tm (B.S. in Software Development | Focus: web & computer programming, software engineering, databases, backend web services,) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9 Tf 1 0 0 1 48 554.8 Tm (testing, and full-stack architecture.) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.8 Tf 1 0 0 1 48 538.6 Tm (Federal University of Technology Akure \(FUTA\)) Tj ET
+0.35 0.38 0.36 rg
+BT /F1 9.2 Tf 1 0 0 1 416.8 538.6 Tm (Ondo State, Nigeria  |  Expected 2029) Tj ET
+0.2 0.23 0.21 rg
+BT /F1 9 Tf 1 0 0 1 48 525.6 Tm (B.Sc. in Statistics | Focus: probability, quantitative reasoning, statistical modeling, data analysis, and analytical problem solving.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 508.4 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 508.4 Tm (Software Development Certificate - BYU-Idaho / BYU-Pathway Worldwide \(Online\)) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 494.4 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 494.4 Tm (AI & Machine Learning Certificate - Great Learning \(Online\)) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 480.4 Tm (-) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 480.4 Tm (Data Science / Artificial Intelligence Certificate - Skill-Lync \(Online\)) Tj ET
+0.12 0.14 0.13 rg
+BT /F2 10.5 Tf 1 0 0 1 48 461.4 Tm (TARGET ROLES & REMOTE AVAILABILITY) Tj ET
+0.36 0.43 0.37 RG 0.9 w 48 457.4 m 564.0 457.4 l S
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 444.4 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 444.4 Tm (Target Roles:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Full-Stack Software Engineer \(React / Next.js / TypeScript / Node.js / Python & Django\), Frontend Engineer,) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 432.4 Tm (Backend & API Engineer, AI-Integrated Product Developer, Software QA Tester, and AI Evaluation Specialist.) Tj ET
+0.36 0.43 0.37 rg
+BT /F2 9.1 Tf 1 0 0 1 50.0 418.4 Tm (-) Tj ET
+0.1 0.12 0.11 rg
+BT /F2 9.1 Tf 1 0 0 1 60.0 418.4 Tm (Availability:) Tj 0.22 0.25 0.23 rg /F1 9.1 Tf ( Immediate availability for full-time remote roles, long-term contracts, and freelance product builds across) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 406.4 Tm (international time zones. Experienced collaborating asynchronously with Git/GitHub, Jira/Trello workflows, Postman API) Tj ET
+0.22 0.25 0.23 rg
+BT /F1 9.1 Tf 1 0 0 1 60.0 394.4 Tm (documentation, and crisp written defect/architecture reports.) Tj ET
+0.45 0.48 0.46 rg
+BT /F1 8.2 Tf 1 0 0 1 257.0 28 Tm (Andrew Etopia | Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000009176 00000 n 
+0000009312 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+14396
+%%EOF
